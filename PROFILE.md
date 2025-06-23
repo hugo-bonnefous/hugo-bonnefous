@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hugo-bonnefous, I have a PhD in bioinformatics and systems biology.
-- 👀 I’m interested in evolutionary biology, and more precisely on the evolution of complex systems.
+- 👀 I’m interested in complex systems in biology, with a current focus on the way they emerge and evolve.
 - 🌱 I’m currently learning to analyse biological networks in an evolutionary framework. I am always willingful to learn new methods (data analyses, computer simulations, mathematical modelling...).
-- 💞️ I’m looking to collaborate on any exciting project using bioinformatics or modelling to tackle fundamental evolutionary questions!
+- 💞️ I’m looking to collaborate on any exciting project using bioinformatics or modelling to tackle fundamental evolutionary questions related to systems biology!
 - 📫 How to reach me: hugo.bonnefous@sorbonne-universite.fr
 
 <!---
